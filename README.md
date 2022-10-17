@@ -5,9 +5,11 @@ Demo - https://assignment-templates.github.io/portfolio/
 Complete your portfolio *bit by bit* throughout the course.
 
 ## Tests
-- [x] build
-- [x] html
+- [ ] html
+- [ ] build
+- [ ] deploy
 - [ ] styles
+- [ ] copy
 - [ ] navigation
 - [ ] contact
 - [ ] copy
