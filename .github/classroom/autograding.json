@@ -1,0 +1,74 @@
+{
+    "tests": [
+        {
+            "name": "build",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=build",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "html",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=html",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "styles",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=styles",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "navigation",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=navigation",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "contact",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=contact",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "copy",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=copy",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        },
+        {
+            "name": "deployment",
+            "setup": "npm install",
+            "run": "npm run test-spec spec=deployment",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 10
+        }
+    ]
+}
