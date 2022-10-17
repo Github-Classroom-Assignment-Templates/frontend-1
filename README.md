@@ -1,4 +1,5 @@
-# Portfolio Project
+# Student Portfolio
+Demo - https://assignment-templates.github.io/portfolio/
 
 ## Goal
 Build a complete portfolio gradually throughout the course.
@@ -10,4 +11,3 @@ Build a complete portfolio gradually throughout the course.
 - [ ] navigation
 - [ ] contact
 - [ ] copy
-
