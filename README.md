@@ -2,7 +2,7 @@
 Demo - https://assignment-templates.github.io/portfolio/
 
 ## Goal
-Build a complete portfolio gradually throughout the course.
+Complete your portfolio *bit by bit* throughout the course.
 
 ## Tests
 - [x] build
