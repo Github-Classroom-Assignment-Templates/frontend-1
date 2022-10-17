@@ -3,7 +3,7 @@
         {
             "name": "build",
             "setup": "npm install",
-            "run": "npm run test-spec spec=build.test.js",
+            "run": "npm run test-spec tests/build.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -13,7 +13,7 @@
         {
             "name": "html",
             "setup": "npm install",
-            "run": "npm run test-spec spec=html.test.js",
+            "run": "npm run test-spec tests/html.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -23,7 +23,7 @@
         {
             "name": "styles",
             "setup": "npm install",
-            "run": "npm run test-spec spec=styles.test.js",
+            "run": "npm run test-spec tests/styles.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -33,7 +33,7 @@
         {
             "name": "navigation",
             "setup": "npm install",
-            "run": "npm run test-spec spec=navigation.test.js",
+            "run": "npm run test-spec tests/navigation.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -43,7 +43,7 @@
         {
             "name": "contact",
             "setup": "npm install",
-            "run": "npm run test-spec spec=contact.test.js",
+            "run": "npm run test-spec tests/contact.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -53,7 +53,7 @@
         {
             "name": "copy",
             "setup": "npm install",
-            "run": "npm run test-spec spec=copy.test.js",
+            "run": "npm run test-spec tests/copy.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
@@ -63,7 +63,7 @@
         {
             "name": "deployment",
             "setup": "npm install",
-            "run": "npm run test-spec spec=deployment.test.js",
+            "run": "npm run test-spec tests/deployment.test.js",
             "input": "",
             "output": "",
             "comparison": "included",
